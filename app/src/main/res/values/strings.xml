@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">navOnFragment</string>
+    <string name="counter_back_button">Go back</string>
+    <string name="launch_button">Launch next</string>
+    <string name="screen_label">Screen #%1$d</string>
+    //Screen # (тут цифра подставляется из-за %1$d)
+</resources>
